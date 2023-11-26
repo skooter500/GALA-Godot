@@ -1,11 +1,13 @@
 # GALA 2023 Godot Workshop 
 
-- [Join the workshop on Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDgyMjM5OGUtY2FlMi00NWFkLTkzYTctNWRmZDM1YzBmNGRk%40thread.v2/0?context=%7b%22Tid%22%3a%22766317cb-e948-4e5f-8cec-dabc8e2fd5da%22%2c%22Oid%22%3a%2261aab78b-a857-4647-9668-83d4cca5de03%22%7d)
-
 [![Video](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?2yy03ItDzlo)
 
+- Wednesday, 29 November, 2023, 9:45-12:00
+- Facilitator: Dr. Bryan Duggan, TU Dublin
+- [Join the workshop on Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDgyMjM5OGUtY2FlMi00NWFkLTkzYTctNWRmZDM1YzBmNGRk%40thread.v2/0?context=%7b%22Tid%22%3a%22766317cb-e948-4e5f-8cec-dabc8e2fd5da%22%2c%22Oid%22%3a%2261aab78b-a857-4647-9668-83d4cca5de03%22%7d)
+
 ## Contact me
-* Facilitator: Dr. Bryan Duggan, TU Dublin
+
 * Email: bryan.duggan@tudublin.ie
 * [My blog](http://bryanduggan.org)
 * [GitHub](http://github/skooter500)
