@@ -61,9 +61,6 @@
 | Preprocess | Wind the particle system forward this amount before starting |
 | Explosiveness | Explodes them all out semi randomly |
 | Randomness | How randomly they emit |
-
-### Process Material
-
 | Lifetime randomness | |
 | Emission Shape |  |
 | | |
