@@ -29,7 +29,7 @@ Click the image below to view the recording of the workshop:
 
 ### Made in Godot:
 
-[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?v=5V9f3MT86M8)
+[![Video](http://img.youtube.com/vi/nuLH27AdkCk/0.jpg)](http://www.youtube.com/watch?v=nuLH27AdkCk)
 
 [![Wireless VR Demos](http://img.youtube.com/vi/4VWmijDelFw/0.jpg)](http://www.youtube.com/watch?v=4VWmijDelFw)
 
@@ -46,7 +46,8 @@ Click the image below to view the recording of the workshop:
 
 ## Getting Started Videos: 
 
-[![Video](http://img.youtube.com/vi/nuLH27AdkCk/0.jpg)](http://www.youtube.com/watch?v=nuLH27AdkCk)
+[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?v=5V9f3MT86M8)
+
 
 [![Video](http://img.youtube.com/vi/_mAfdeops_E/0.jpg)](http://www.youtube.com/watch?v=_mAfdeops_E)
 
