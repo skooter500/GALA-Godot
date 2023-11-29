@@ -1,5 +1,7 @@
 # GALA 2023 Godot Workshop
 
+Click the image below to view the recording of the workshop:
+
 [![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?9JZSx1z3_vQ)
 
 - Wednesday, 29 November, 2023, 9:45-12:00
