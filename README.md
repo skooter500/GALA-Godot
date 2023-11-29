@@ -4,6 +4,8 @@ Click the image below to view the recording of the workshop:
 
 [![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?v=9JZSx1z3_vQ)
 
+- [Link to the slides](https://1drv.ms/p/s!Ak7y2552PWCrkvFViMkHxdJm4lXi4g?e=hyNknf)
+
 - Wednesday, 29 November, 2023, 9:45-12:00
 - Facilitator: Dr. Bryan Duggan, TU Dublin
 
