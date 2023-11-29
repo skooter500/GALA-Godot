@@ -2,6 +2,8 @@
 
 Click the image below to view the recording of the workshop:
 
+[![Video](http://img.youtube.com/vi/NMDupdv85FE/0.jpg)](http://www.youtube.com/watch?NMDupdv85FE)
+
 [![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?9JZSx1z3_vQ)
 
 - Wednesday, 29 November, 2023, 9:45-12:00
@@ -16,7 +18,7 @@ Click the image below to view the recording of the workshop:
 
 ## Resources
 - [Install Godot 4.1](https://godotengine.org/download/windows/)
-- [Godot XR Toolkit]()
+- [Godot XR Toolkit](https://docs.godotengine.org/en/stable/tutorials/xr/introducing_xr_tools.html)
 - [Godot Quick Reference](godot_ref.md)
 - [Unity to Godot Porting Guide](unity_to_godot.md)
 - [git Tutorial](gitlab.md)
