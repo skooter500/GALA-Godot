@@ -1,6 +1,6 @@
-# GALA 2023 Godot Workshop 
+# GALA 2023 Godot Workshop
 
-[![Video](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?2yy03ItDzlo)
+[![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?9JZSx1z3_vQ)
 
 - Wednesday, 29 November, 2023, 9:45-12:00
 - Facilitator: Dr. Bryan Duggan, TU Dublin
@@ -16,23 +16,29 @@
 - [Install Godot 4.1](https://godotengine.org/download/windows/)
 - [Godot XR Toolkit]()
 - [Godot Quick Reference](godot_ref.md)
-- [Unity Quick Reference](unityref.md)
+- [Unity to Godot Porting Guide](unity_to_godot.md)
 - [git Tutorial](gitlab.md)
 - [My Games Engines 1 Course](https://github.com/skooter500/GE1-2023)
 - [My Games Engines 2 Course](https://github.com/skooter500/GE2-2023)
 
-## Recording of the workshop
+## Demos
 
-[![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?9JZSx1z3_vQ)
+[![Wireless VR Demos](http://img.youtube.com/vi/0ylt28exhds/0.jpg)](http://www.youtube.com/watch?0ylt28exhds)
 
-## Wireless XR in Godot Demo
+[![Game AI in Godot](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?2yy03ItDzlo)
 
-[![Recording of the workshop](http://img.youtube.com/vi/0ylt28exhds/0.jpg)](http://www.youtube.com/watch?0ylt28exhds)
+[![BitBoy](http://img.youtube.com/vi/ZxzUO61z-OQ/0.jpg)](http://www.youtube.com/watch?ZxzUO61z-OQ)
 
-0ylt28exhds
+[![Procedural City](http://img.youtube.com/vi/f9tmgOyUgD8/0.jpg)](http://www.youtube.com/watch?f9tmgOyUgD8)
+
+[![Infinite Forms](http://img.youtube.com/vi/NMDupdv85FE/0.jpg)](http://www.youtube.com/watch?NMDupdv85FE)
+
 
 ## Getting Started Videos: 
 
+[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?5V9f3MT86M8)
+
+[![Video](http://img.youtube.com/vi/nuLH27AdkCk/0.jpg)](http://www.youtube.com/watch?nuLH27AdkCk)
 
 [![Video](http://img.youtube.com/vi/_mAfdeops_E/0.jpg)](http://www.youtube.com/watch?_mAfdeops_E)
 
