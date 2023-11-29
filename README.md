@@ -4,7 +4,6 @@
 
 - Wednesday, 29 November, 2023, 9:45-12:00
 - Facilitator: Dr. Bryan Duggan, TU Dublin
-- [Join the workshop on Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDgyMjM5OGUtY2FlMi00NWFkLTkzYTctNWRmZDM1YzBmNGRk%40thread.v2/0?context=%7b%22Tid%22%3a%22766317cb-e948-4e5f-8cec-dabc8e2fd5da%22%2c%22Oid%22%3a%2261aab78b-a857-4647-9668-83d4cca5de03%22%7d)
 
 ## Contact me
 
@@ -22,7 +21,18 @@
 - [My Games Engines 1 Course](https://github.com/skooter500/GE1-2023)
 - [My Games Engines 2 Course](https://github.com/skooter500/GE2-2023)
 
+## Recording of the workshop
+
+[![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?9JZSx1z3_vQ)
+
+## Wireless XR in Godot Demo
+
+[![Recording of the workshop](http://img.youtube.com/vi/0ylt28exhds/0.jpg)](http://www.youtube.com/watch?0ylt28exhds)
+
+0ylt28exhds
+
 ## Getting Started Videos: 
+
 
 [![Video](http://img.youtube.com/vi/_mAfdeops_E/0.jpg)](http://www.youtube.com/watch?_mAfdeops_E)
 
