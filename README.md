@@ -29,6 +29,8 @@ Click the image below to view the recording of the workshop:
 
 ### Made in Godot:
 
+[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?v=5V9f3MT86M8)
+
 [![Wireless VR Demos](http://img.youtube.com/vi/4VWmijDelFw/0.jpg)](http://www.youtube.com/watch?v=4VWmijDelFw)
 
 [![Game AI in Godot](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?v=2yy03ItDzlo)
@@ -42,10 +44,7 @@ Click the image below to view the recording of the workshop:
 
 [![Infinite Forms](http://img.youtube.com/vi/NMDupdv85FE/0.jpg)](http://www.youtube.com/watch?v=NMDupdv85FE)
 
-
 ## Getting Started Videos: 
-
-[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?v=5V9f3MT86M8)
 
 [![Video](http://img.youtube.com/vi/nuLH27AdkCk/0.jpg)](http://www.youtube.com/watch?v=nuLH27AdkCk)
 
