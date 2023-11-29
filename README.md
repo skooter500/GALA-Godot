@@ -2,8 +2,6 @@
 
 Click the image below to view the recording of the workshop:
 
-[![Video](http://img.youtube.com/vi/NMDupdv85FE/0.jpg)](http://www.youtube.com/watch?v=NMDupdv85FE)
-
 [![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?v=9JZSx1z3_vQ)
 
 - Wednesday, 29 November, 2023, 9:45-12:00
