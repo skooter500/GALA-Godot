@@ -1,10 +1,13 @@
-# GALA 2023 Godot Workshop 
+# GALA 2023 Godot Workshop
 
-[![Video](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?2yy03ItDzlo)
+Click the image below to view the recording of the workshop:
+
+[![Recording of the workshop](http://img.youtube.com/vi/9JZSx1z3_vQ/0.jpg)](http://www.youtube.com/watch?v=9JZSx1z3_vQ)
+
+- [Link to the slides](https://1drv.ms/p/s!Ak7y2552PWCrkvFViMkHxdJm4lXi4g?e=hyNknf)
 
 - Wednesday, 29 November, 2023, 9:45-12:00
 - Facilitator: Dr. Bryan Duggan, TU Dublin
-- [Join the workshop on Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDgyMjM5OGUtY2FlMi00NWFkLTkzYTctNWRmZDM1YzBmNGRk%40thread.v2/0?context=%7b%22Tid%22%3a%22766317cb-e948-4e5f-8cec-dabc8e2fd5da%22%2c%22Oid%22%3a%2261aab78b-a857-4647-9668-83d4cca5de03%22%7d)
 
 ## Contact me
 
@@ -14,21 +17,43 @@
 * [YouTube](http://youtube.com/skooter500)
 
 ## Resources
-- [Install Godot 4.1](https://godotengine.org/download/windows/)
-- [Godot XR Toolkit]()
+- [Install Godot 4.1](https://godotengine.org/download/)
+- [Godot XR Toolkit](https://docs.godotengine.org/en/stable/tutorials/xr/introducing_xr_tools.html)
 - [Godot Quick Reference](godot_ref.md)
-- [Unity Quick Reference](unityref.md)
+- [Unity to Godot Porting Guide](unity_to_godot.md)
 - [git Tutorial](gitlab.md)
 - [My Games Engines 1 Course](https://github.com/skooter500/GE1-2023)
 - [My Games Engines 2 Course](https://github.com/skooter500/GE2-2023)
 
+## Demos
+
+### Made in Godot:
+
+[![Video](http://img.youtube.com/vi/nuLH27AdkCk/0.jpg)](http://www.youtube.com/watch?v=nuLH27AdkCk)
+
+[![Wireless VR Demos](http://img.youtube.com/vi/4VWmijDelFw/0.jpg)](http://www.youtube.com/watch?v=4VWmijDelFw)
+
+[![Game AI in Godot](http://img.youtube.com/vi/2yy03ItDzlo/0.jpg)](http://www.youtube.com/watch?v=2yy03ItDzlo)
+
+[![BitBoy](http://img.youtube.com/vi/ZxzUO61z-OQ/0.jpg)](http://www.youtube.com/watch?v=ZxzUO61z-OQ)
+
+[![Procedural City](http://img.youtube.com/vi/f9tmgOyUgD8/0.jpg)](http://www.youtube.com/watch?v=f9tmgOyUgD8)
+
+
+### Made in Unity
+
+[![Infinite Forms](http://img.youtube.com/vi/NMDupdv85FE/0.jpg)](http://www.youtube.com/watch?v=NMDupdv85FE)
+
 ## Getting Started Videos: 
 
-[![Video](http://img.youtube.com/vi/_mAfdeops_E/0.jpg)](http://www.youtube.com/watch?_mAfdeops_E)
+[![Video](http://img.youtube.com/vi/5V9f3MT86M8/0.jpg)](http://www.youtube.com/watch?v=5V9f3MT86M8)
 
-[![Video](http://img.youtube.com/vi/22VYNOtrcgM/0.jpg)](http://www.youtube.com/watch?22VYNOtrcgM)
 
-[![Video](http://img.youtube.com/vi/sPfoZy-cW-E/0.jpg)](http://www.youtube.com/watch?sPfoZy-cW-E)
+[![Video](http://img.youtube.com/vi/_mAfdeops_E/0.jpg)](http://www.youtube.com/watch?v=_mAfdeops_E)
 
-[![Video](http://img.youtube.com/vi/P8Lb8kJdTpI/0.jpg)](http://www.youtube.com/watch?HwN3g9Mq0f8)
+[![Video](http://img.youtube.com/vi/22VYNOtrcgM/0.jpg)](http://www.youtube.com/watch?v=22VYNOtrcgM)
+
+[![Video](http://img.youtube.com/vi/sPfoZy-cW-E/0.jpg)](http://www.youtube.com/watch?v=sPfoZy-cW-E)
+
+[![Video](http://img.youtube.com/vi/P8Lb8kJdTpI/0.jpg)](http://www.youtube.com/watch?v=HwN3g9Mq0f8)
 

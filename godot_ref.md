@@ -54,16 +54,13 @@
 |--------|-------|
 | ProcessMaterial | A shader that will process the particles. This is where the particle system is configured  |
 | DrawPass | Draws one Particle. Has a material |
-| Amount| How many particles in the system |
+| Amount | How many particles in the system |
 | Emission Shapes | |
 | Lifetime | How long each one lives for |
 | One shot |  Just fire once and stop|
 | Preprocess | Wind the particle system forward this amount before starting |
 | Explosiveness | Explodes them all out semi randomly |
 | Randomness | How randomly they emit |
-
-### Process Material
-
 | Lifetime randomness | |
 | Emission Shape |  |
 | | |
